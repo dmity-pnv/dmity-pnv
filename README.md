@@ -1,16 +1,37 @@
-## Hi there 👋
+Привет, я Дмитрий 👋
 
-<!--
-**dmity-pnv/dmity-pnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3 курса РЭУ им. Г.В. Плеханова, направление «Статистика» (Высшая школа
+кибертехнологий, математики и статистики). Ищу стажировку в роли аналитика данных,
+ML-аналитика или BI-аналитика.
 
-Here are some ideas to get you started:
+Мне интересна работа, где данные превращаются в решения: статистический анализ,
+проверка гипотез, SQL-аналитика и визуализация. Учусь делать это аккуратно — с
+вниманием к корректности методов и осмысленности результатов, а не только к красивым
+цифрам.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Навыки
+
+
+Языки и анализ: Python (pandas, NumPy, SciPy, matplotlib, seaborn), SQL (PostgreSQL), R
+Статистика: проверка гипотез, непараметрические критерии, размеры эффекта, A/B-логика
+Аналитика: оконные функции, CTE, RFM-сегментация, когортный анализ, воронки
+Инструменты: Excel (продвинутый уровень), Jupyter, Google Colab, Git
+Языки: русский — родной, английский — B1
+
+
+Проекты
+
+📊 doomscrolling-analysis —
+статистический анализ опроса 73 студентов о думскроллинге: пять непараметрических
+критериев, размеры эффекта, проверка робастности. Python, SciPy.
+
+🗄️ ecommerce-sql-analytics —
+SQL-аналитика интернет-магазина: оконные функции, RFM-сегментация, когортный retention,
+анализ воронки на PostgreSQL.
+
+
+Связь
+
+
+Telegram: @Loop183
+Email: dmitry.pinyasov@yandex.ru
